@@ -1,0 +1,18 @@
+body {
+    background-color: beige;
+} 
+
+hr {
+    /* border-style: dotted none none none; */
+    background-color: transparent;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+
+    width: 8%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color: rgb(35, 0, 116);
+}
